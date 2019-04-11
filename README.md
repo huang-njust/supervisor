@@ -6,7 +6,7 @@ Petri net analyzer with uncontrollable transitions: This program which is writte
 
 Redundant constraints identifying: This program which runs in Matlab is to identify redundant constraints in the ILP for supervisor synthesis.
 
-ILP solving: This program which runs in LINGO is to solve the ILP to obtain coefficients of the minitors to be added to a plant net.
+ILP solving: This program which runs in LINGO is to solve the ILP to obtain coefficients of the monitors to be added to a plant net.
 
 coefficients of PI to supervisor: This program which runs in Matlab is to compute the monitors to be added from the coefficients obtained by solving an ILP.
 
