@@ -1,6 +1,6 @@
 # Supervisor Synthesis for Petri nets of RASs
 
-Reachability graph analyzer: This program is written by C++ and to it computes the set of legal markings M_L, the set of first-met bad markings M_F, the minimal covering set of M_L, the minimal covered set of M_F, the minimal covering set of M_L with K-cover, the minimal covered set of M_F with K-cover, and the set marking/transition separation instances.
+Reachability graph analyzer: This program is written by C++ and it computes the set of legal markings M_L, the set of first-met bad markings M_F, the minimal covering set of M_L, the minimal covered set of M_F, the minimal covering set of M_L with K-cover, the minimal covered set of M_F with K-cover, and the set marking/transition separation instances.
 
 Petri net analyzer with uncontrollable transitions: This program is written by C++ and it computes the set of legal markings M_L, the set of first-met bad markings M_F, the minimal covering set of M_L, the minimal covered set of M_F, and the set marking/transition separation instances in the presence of uncontrollable transitions.
 
